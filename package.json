@@ -1,0 +1,23 @@
+{
+  "name": "testing-practices",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdavidcch/testing-practices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdavidcch/testing-practices/issues"
+  },
+  "homepage": "https://github.com/wdavidcch/testing-practices#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
