@@ -1,7 +1,7 @@
 const stringLength = require('./stringLength')
 
 test('Count', () => {
-expect(stringLength('hola')).toBe(4)
+expect(stringLength('hello')).toBe(5)
 });
 
 test('Admitted Strings', () => {
